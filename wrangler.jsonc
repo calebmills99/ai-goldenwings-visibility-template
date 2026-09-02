@@ -18,8 +18,8 @@
 	],
 	"secrets_store_secrets": [
 		{
-			"binding": "GEMINI_API_KEY",
-			"store_id": "<ac10950b9f7940ea8af19285d93b39e9>",
+			"binding": "secrets-store",
+			"store_id": "ac10950b9f7940ea8af19285d93b39e9",
 			"secret_name": "GEMINI_API_KEY"
 		}
 	],
