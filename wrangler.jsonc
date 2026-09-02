@@ -15,6 +15,9 @@
 			"binding": "AEO_KV",
 			"id": "19cd52d78e324f6ab99f3744526f1359"
 		}
+	}, 
+            "secrets_store": {
+            "binding": "GEMINI_API_KEY"
 	],
 	"queues": {
 		"producers": [
