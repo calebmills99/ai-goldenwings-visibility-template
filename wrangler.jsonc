@@ -15,9 +15,13 @@
 			"binding": "AEO_KV",
 			"id": "19cd52d78e324f6ab99f3744526f1359"
 		}
-	}, 
-            "secrets_store": {
-            "binding": "GEMINI_API_KEY"
+	],
+	"secrets_store_secrets": [
+		{
+			"binding": "GEMINI_API_KEY",
+			"store_id": "<your-secrets-store-id>",
+			"secret_name": "GEMINI_API_KEY"
+		}
 	],
 	"queues": {
 		"producers": [
