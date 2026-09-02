@@ -41,6 +41,7 @@
 		"@cloudflare/workers-types": "*",
 		"@react-router/dev": "7.9.6",
 		"@tailwindcss/vite": "4.1.17",
+		"@types/node": "^26.4.1",
 		"@types/react": "19.2.7",
 		"@types/react-dom": "19.2.3",
 		"tailwindcss": "4.1.17",
